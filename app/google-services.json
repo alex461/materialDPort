@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506272937820",
+    "firebase_url": "https://miappalex.firebaseio.com",
+    "project_id": "miappalex",
+    "storage_bucket": "miappalex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506272937820:android:858c6507821bb00a",
+        "android_client_info": {
+          "package_name": "com.example.alexander.miappalex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506272937820-b6jkni47g7uliean74lqh5k8s6qioqpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexander.miappalex",
+            "certificate_hash": "baa22096152bb3934b2ea9d608cb624441fd100d"
+          }
+        },
+        {
+          "client_id": "506272937820-g06a3s33b7jfe48itdthquhje9hjkdfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqu2nr3vUyytm2Gjv0MT_9-OSWLB9Oqec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506272937820-g06a3s33b7jfe48itdthquhje9hjkdfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
