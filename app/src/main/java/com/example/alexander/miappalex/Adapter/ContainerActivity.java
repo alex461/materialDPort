@@ -9,7 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
 import com.example.alexander.miappalex.R;
-import com.example.alexander.miappalex.fragment.HomeFragment;
+import com.example.alexander.miappalex.post.view.HomeFragment;
 import com.example.alexander.miappalex.fragment.ProfileFragment;
 import com.example.alexander.miappalex.fragment.SearchFragment;
 

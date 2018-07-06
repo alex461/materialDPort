@@ -27,5 +27,8 @@
     <string name="tittleimagedetail">\"Todo happy aqui :D\"</string>
     <string name="loren">bla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla</string>
     <string name="transitionname_picture">transitionnamepicture</string>
-
+    <string name="login_error">ocurrio este error</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Descripción</string>
+    <string name="text_button_createPost">Crear Post</string>
 </resources>

@@ -4,7 +4,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-import com.example.alexander.miappalex.fragment.HomeFragment;
+import com.example.alexander.miappalex.post.view.HomeFragment;
 import com.example.alexander.miappalex.fragment.ProfileFragment;
 import com.example.alexander.miappalex.fragment.SearchFragment;
 
